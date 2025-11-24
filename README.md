@@ -198,7 +198,9 @@ The embedded NanoHTTPD server in [WebServerService.kt](app/src/main/java/com/exa
 1. **Camera Permission Denied**: Ensure camera permission is granted in Android settings
 2. **Black Screen**: Check if camera is being used by another application
 3. **Web Viewer Not Loading**: Verify device and computer are on same network
-4. **Build Failures**: Ensure NDK is properly installed and ANDROID_NDK_HOME is set
+
+   
+5. **Build Failures**: Ensure NDK is properly installed and ANDROID_NDK_HOME is set
 
 ### Performance Optimization
 1. Adjust frame processing interval in [OpenCVImageAnalyzer.kt](app/src/main/java/com/example/ffddas/OpenCVImageAnalyzer.kt)
