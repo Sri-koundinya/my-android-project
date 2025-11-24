@@ -1,0 +1,1 @@
+// PhotoItem removed
